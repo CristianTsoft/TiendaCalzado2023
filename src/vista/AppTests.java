@@ -11,7 +11,7 @@ import modelo.Producto;
 import java.sql.SQLOutput;
 import java.util.ArrayList;
 
-public class AppTests {
+public class AppTests {/* 
     public static void main(String[] args) {
 
         Producto prod = new Producto("1",5,10000);
@@ -49,5 +49,5 @@ public class AppTests {
 
 
 
-    }
+    }*/
 }
